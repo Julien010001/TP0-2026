@@ -21,6 +21,8 @@
   - Keep code well factorized and avoid repetition.
   - Extract helpers for repeated logic.
   - Prefer clear, reusable functions over copy/paste blocks.
+- Ideally, lines of code should not exceed 80 chars.  Lines up to 100
+  chars are tolerated; lines with more than 100 chars are forbidden.
 
 ## Style & maintainability
 - Keep naming consistent and descriptive.
